@@ -14,7 +14,7 @@ Risa McNellis (risa.mcnellis@gmail.com) and Nick Smith (nick.gregory.smith@gmail
 This folder contains all of the data files.
 
 ## file descriptions
-### /data/seasonal_albedo_leaf.csv
+### /data/wintercrop_albedo_leaf.csv
 This file contains stomatal conductance, leaf chlorophyll, leaf thickness, leaf area, and leaf mass. The specific column information is:
 - *date*: the date of measurement, corresponds to *date* column in all other files
 - *ID*: the sample ID indicating date_species_plot, corresponds to *ID* column in all other files
@@ -27,7 +27,7 @@ This file contains stomatal conductance, leaf chlorophyll, leaf thickness, leaf 
 - *leaf_area*: area of leaf (mm<sup>2</sup>)
 - *leaf_mass*: mass of leaf (mg)
 
-### /data/seasonal_albedo_radiation.csv
+### /data/wintercrop_albedo_radiation.csv
 This file contains minimum, maximum, and average one-minute incoming and reflected shortwave radiation measured with a Kipp & Zonen SMP3. The specific column information is:
 - *date*: the date of measurement, corresponds to *date* column in all other files
 - *time*: the time of measurement
@@ -39,7 +39,7 @@ This file contains minimum, maximum, and average one-minute incoming and reflect
 - *in_rad_avg*: average one-minute incoming radiation (W m<sup>-2</sup>)
 - *in_rad_max*: maximum one-minute incoming radiation (W m<sup>-2</sup>)
 
-### /data/seasonal_albedo_site.csv
+### /data/wintercrop_albedo_plot.csv
 This file contains plot data including species, planting date, leaf area index, soil moisture, plant height, and soil albedo. The specific column information is:
 - *date*: the date of measurement, corresponds to *date* column in all other files
 - *DOY*: the measurement day of year
