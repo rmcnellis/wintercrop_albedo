@@ -8,6 +8,7 @@ This repository houses data from an experiment at the USDA research station in L
 Risa McNellis (risa.mcnellis@gmail.com) and Nick Smith (nick.gregory.smith@gmail.com)
 
 ## DOI badge
+[![DOI](https://zenodo.org/badge/261541865.svg)](https://zenodo.org/badge/latestdoi/261541865)
 
 ## folder descriptions
 ### /data
